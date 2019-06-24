@@ -21,7 +21,7 @@ def importdata():
     sep= ',', header = None)
 
 # Print Format Dataset
-    print ("Dataset Lenght: ", len(haberman_data))
+    print ("Dataset Length: ", len(haberman_data))
     print ("Dataset Shape: ", haberman_data.shape)
 
 # Print Dataset
